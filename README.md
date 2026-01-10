@@ -25,7 +25,6 @@
 ---
 
 ## 📈 Learning Progress (Self-Assessment)
-> Shows growth mindset (important for freshers)
 
 ```text
 Frontend        █████████████░░ 85%
