@@ -2,29 +2,52 @@
 <h3 align="center">Fresher MERN Stack Developer | React • Node • MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C18A5F&center=true&vCenter=true&lines=MERN+Stack+Developer;React+%7C+Context+API+%7C+Axios;Learning+Node+%26+MongoDB;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=C18A5F&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Context+API+%7C+Axios;Learning+Node+%26+MongoDB;Building+Real-World+Projects" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
+
 - 🎓 Fresher **MERN Stack Developer**
-- ⚛️ Strong foundation in **React.js**
-- 🌐 Working with **Context API & Axios**
-- 🧠 Learning **Node.js, Express & MongoDB**
+- ⚛️ Strong hands-on experience with **React.js**
+- 🔄 State management using **Context API**
+- 🌐 API integration with **Axios**
+- 🧠 Currently learning **Node.js, Express & MongoDB**
 - 🎨 Focused on **clean UI, reusable components & scalability**
-- 🚀 Actively building projects to strengthen real-world skills
+- 🚀 Passionate about building real-world, production-style projects
 
 ---
 
 ## 🛠 Tech Stack & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,nodejs,express,mongodb,git,github" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true&theme=default" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanAhmad-code&layout=compact&theme=gruvbox" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanAhmad-code&theme=gruvbox" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
 
 <p align="center">
   <picture>
@@ -36,12 +59,14 @@
   </picture>
 </p>
 
+---
 
-## 📈 Learning Progress (Self-Assessment)
+## 📈 Learning Progress
 
 ```text
-Frontend        █████████████░░ 85%
-Backend         ███████░░░░░░░ 60%
-Database        ██████░░░░░░░░ 55%
-API Integration █████████░░░░░ 80%
-UI/UX           █████████░░░░░ 75%
+React.js        █████████████░░ 85%
+JavaScript     ███████████░░░░ 75%
+Node.js        ███████░░░░░░░░ 60%
+Express.js     ██████░░░░░░░░░ 55%
+MongoDB        ██████░░░░░░░░░ 55%
+UI / UX        █████████░░░░░░ 80%
