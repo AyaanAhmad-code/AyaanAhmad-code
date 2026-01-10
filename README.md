@@ -2,7 +2,7 @@
 <h3 align="center">Fresher MERN Stack Developer | React • Node • MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C18A5F&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Context+API+%7C+Axios;Learning+Node+%26+MongoDB;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=C18A5F&center=true&vCenter=true&lines=MERN+Stack+Developer;React+%7C+Context+API+%7C+Axios;Learning+Node+%26+MongoDB;Building+Real+World+Projects" />
 </p>
 
 ---
@@ -10,12 +10,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 Fresher **MERN Stack Developer**
-- ⚛️ Strong hands-on experience with **React.js**
-- 🔄 State management using **Context API**
-- 🌐 API integration with **Axios**
+- ⚛️ Strong foundation in **React.js**
+- 🌐 Experience with **Context API & Axios**
 - 🧠 Currently learning **Node.js, Express & MongoDB**
 - 🎨 Focused on **clean UI, reusable components & scalability**
-- 🚀 Passionate about building real-world, production-style projects
+- 🚀 Actively building real-world projects to grow as a developer
 
 ---
 
@@ -30,40 +29,42 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true&theme=gruvbox&hide_border=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanAhmad-code&layout=compact&theme=gruvbox&hide_border=true" 
-    height="165"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true&hide_border=true" />
+  </picture>
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanAhmad-code&theme=gruvbox&hide_border=true"
-  />
-</p>
-
-
----
-
-## 🐍 Contribution Activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AyaanAhmad-code/AyaanAhmad-code/output/github-contribution-grid-snake-dark.svg" />
-    <img
-      src="https://raw.githubusercontent.com/AyaanAhmad-code/AyaanAhmad-code/output/github-contribution-grid-snake.svg"
-      alt="Contribution Snake" />
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanAhmad-code&layout=compact&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanAhmad-code&layout=compact&hide_border=true" />
   </picture>
 </p>
 
 ---
 
-## 📈 Learning Progress
+## 📅 Coding Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanAhmad-code&theme=gruvbox&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Learning Journey
+
+- ✅ HTML, CSS, JavaScript
+- ✅ React.js & Context API
+- 🔄 Node.js & Express
+- 🔄 MongoDB & Mongoose
+- ⏳ Authentication, Authorization & Deployment
+
+---
+
+## 📈 Skill Progress (Self-Assessment)
 
 ```text
 React.js        █████████████░░ 85%
