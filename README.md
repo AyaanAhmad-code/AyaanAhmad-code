@@ -76,5 +76,25 @@ UI / UX        █████████░░░░░░ 80%
 ```
 
 ---
+
 ## 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AyaanAhmad-code&theme=gruvbox&no-frame=true&row=1&column=6" /> </p>
+
+---
+
+🐍 Contribution Activity
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyaanAhmad-code/AyaanAhmad-code/output/github-contribution-grid-snake-dark.svg" /> <img src="https://raw.githubusercontent.com/AyaanAhmad-code/AyaanAhmad-code/output/github-contribution-grid-snake.svg" /> </picture> </p>
+
+---
+
+🤝 Connect With Me
+
+💼 LinkedIn: Add your LinkedIn profile
+
+📧 Email: Add your professional email
+
+🌐 Portfolio: Coming soon
+
+---
+
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=C18A5F&center=true&vCenter=true&lines=Always+Learning;Building+Projects;Growing+Everyday" /> <img src="https://readme-typing-svg.herokuapp.com?color=8B5A2B&center=true&vCenter=true&lines=Frontend+Focused;MERN+Stack+Learner" /> </picture> </p> 
