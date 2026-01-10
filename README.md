@@ -29,21 +29,25 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true&theme=gruvbox" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true&theme=default" />
-  </picture>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true&theme=gruvbox&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanAhmad-code&layout=compact&theme=gruvbox&hide_border=true" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanAhmad-code&layout=compact&theme=gruvbox" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanAhmad-code&theme=gruvbox&hide_border=true"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanAhmad-code&theme=gruvbox" />
-</p>
 
 ---
 
