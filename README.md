@@ -29,20 +29,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true&hide_border=true" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyaanAhmad-code&show_icons=true" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanAhmad-code&layout=compact&theme=gruvbox&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanAhmad-code&layout=compact&hide_border=true" />
-  </picture>
-</p>
 
 ---
 
