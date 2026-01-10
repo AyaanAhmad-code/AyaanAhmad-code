@@ -73,3 +73,7 @@ Node.js        ███████░░░░░░░░ 60%
 Express.js     ██████░░░░░░░░░ 55%
 MongoDB        ██████░░░░░░░░░ 55%
 UI / UX        █████████░░░░░░ 80%
+
+---
+## 🏆 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AyaanAhmad-code&theme=gruvbox&no-frame=true&row=1&column=6" /> </p>
