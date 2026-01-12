@@ -68,7 +68,7 @@ UI / UX        █████████░░░░░░ 80%
 
 📧 Email: ayaanah287@gmail.com
 
-🌐 Portfolio: Coming soon
+🌐 Portfolio: https://my-portfolio-ayaan.vercel.app
 
 ---
 
