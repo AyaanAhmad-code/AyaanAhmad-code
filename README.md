@@ -26,14 +26,6 @@
 
 ---
 
-## 📅 Coding Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyaanAhmad-code&theme=gruvbox&hide_border=true" />
-</p>
-
----
-
 ## 🧠 Learning Journey
 
 - ✅ HTML, CSS, JavaScript
